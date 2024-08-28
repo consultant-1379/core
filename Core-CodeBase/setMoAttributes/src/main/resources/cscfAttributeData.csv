@@ -1,0 +1,21 @@
+#attribute name,data type,values,frequencyType
+scscfNodeDefaultIfcId,String,1,constant
+cscfUserDataOutputId,String,1,constant
+icscfDynamicUserIdentitySupport,String,1,constant
+cscfUserDataManagementGroupId,String,1,constant
+cscfUserDataActionsId,String,1,constant
+cscfSystemConfig,String,1,constant
+cscfTelephony,String,1,constant
+cscfRegistrationEventId,String,1,constant
+cscfSipProtocol,String,1,constant
+cscfDialogEventId,String,1,constant
+cscfServiceInvocation,String,1,constant
+cscfServicePriority,String,1,constant
+cscfCallerPreferences,String,1,constant
+cscfRouting,String,1,constant
+cscfLicenseModelGroupId,String,1,constant
+cscfMonitoredInterface,String,1,constant
+cscfAdvancedProfileEntryId,String,1,constant
+cscfPersonalProfileEntryId,String,1,constant
+cscfTerminalIdentificationId,String,1,constant
+cscfEmergency,String,1,constant
